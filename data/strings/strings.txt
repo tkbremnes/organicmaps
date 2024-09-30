@@ -14411,7 +14411,7 @@
     ko = 층
     lt = Aukštas
     mr = मजला
-    nb = Gulv
+    nb = Etasje
     nl = Verdieping
     pl = Kondygnacja
     pt = Andar
@@ -14433,6 +14433,7 @@
     en = Level: %s
     de = Stock: %s
     fr = Niveau : %s
+    nb = Nivå: %s
     ru = Этаж: %s
     tr = Kat sayısı:  %s
     zh-Hans = 楼层：%s
@@ -28912,6 +28913,7 @@
     it = https://wiki.openstreetmap.org/wiki/IT:About
     ja = https://wiki.openstreetmap.org/wiki/JA:参加する
     ko = https://wiki.openstreetmap.org/wiki/Ko:OpenStreetMap_소개
+    nb = https://wiki.openstreetmap.org/wiki/No:Hva_er_OpenStreetmap
     nl = https://wiki.openstreetmap.org/wiki/NL:Wat_is_OpenStreetMap%3F
     pl = https://wiki.openstreetmap.org/wiki/Pl:Wstęp
     pt = https://wiki.openstreetmap.org/wiki/Pt:Sobre_o_OpenStreetMap
@@ -30925,7 +30927,8 @@
     ja = セルフサービス
     ko = 셀프 서비스
     lt = Savitarna
-    mr = स्व: सेवा    nb = Selvbetjening
+    mr = स्व: सेवा
+    nb = Selvbetjening
     nl = Zelfbediening
     pl = Samoobsługa
     pt = Autosserviço
@@ -30969,7 +30972,8 @@
     ja = オプションを選択する
     ko = 옵션 선택
     lt = Pasirinkite parinktį
-    mr = पर्याय निवडा    nb = Velg alternativ
+    mr = पर्याय निवडा
+    nb = Velg alternativ
     nl = Selecteer optie
     pl = Wybierz opcję
     pt = Selecionar opção
@@ -31015,6 +31019,7 @@
     ko = 야외 좌석
     lt = Lauko sėdimosios vietos
     mr = बाहेरची आसनव्यवस्था    nb = Uteservering
+    nb = Sitteplasser utendørs
     nl = Zitplaatsen buiten
     pl = Siedzenia na zewnątrz
     pt = Assentos ao ar livre
@@ -31631,10 +31636,12 @@
   [choose_color]
     tags = android
     en = Choose Color
+    nb = Velg farge
 
   [edit_track]
     tags = android
     en = Edit Track
+    nb = Endre spor
 
   [uri_open_location_failed]
     tags = android
